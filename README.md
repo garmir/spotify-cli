@@ -1,2 +1,2 @@
 # spotify-cli
-don't ask why, ask why not :)
+cli based spotify controller using rust and the spotify api 
