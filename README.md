@@ -1,2 +1,2 @@
 # spotify-cli
-because who wouldn't want to control spotify from their terminal?
+don't ask why, ask why not :)
