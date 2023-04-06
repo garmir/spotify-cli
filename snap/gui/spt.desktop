@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Spotify TUI
+Name=Spotify CLI
 Exec=spt
 Comment=Spotify for the terminal written in Rust
 Icon=${SNAP}/meta/gui/spt.png
