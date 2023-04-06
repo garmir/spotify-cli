@@ -133,7 +133,7 @@ async fn main() -> Result<()> {
     .usage("Press `?` while running the app to see keybindings")
     .before_help(BANNER)
     .after_help(
-      "Your spotify Client ID and Client Secret are stored in $HOME/.config/spotify-tui/client.yml",
+      "Your spotify Client ID and Client Secret are stored in $HOME/.config/spotify-cli/client.yml",
     )
     .arg(
       Arg::with_name("tick-rate")
