@@ -1296,7 +1296,7 @@ where
   let device_instructions: Vec<Spans> = vec![
         "To play tracks, please select a device. ",
         "Use `j/k` or up/down arrow keys to move up and down and <Enter> to select. ",
-        "Your choice here will be cached so you can jump straight back in when you next open `spotify-tui`. ",
+        "Your choice here will be cached so you can jump straight back in when you next open `spotify-cli`. ",
         "You can change the playback device at any time by pressing `d`.",
     ].into_iter().map(|instruction| Spans::from(Span::raw(instruction))).collect();
 
@@ -1305,7 +1305,7 @@ where
     .wrap(Wrap { trim: true })
     .block(
       Block::default().borders(Borders::NONE).title(Span::styled(
-        "Welcome to spotify-tui!",
+        "Welcome to spotify-cli!",
         Style::default()
           .fg(app.user_config.theme.active)
           .add_modifier(Modifier::BOLD),
