@@ -1,7 +1,7 @@
 name: spt-temp
 base: core18
-adopt-info: spotify-tui
-summary: Spotify TUI
+adopt-info: spotify-cli
+summary: Spotify CLI
 description: |
   Spotify for the terminal written in Rust
 
@@ -9,7 +9,7 @@ grade: stable
 confinement: strict
 
 parts:
-  spotify-tui:
+  spotify-cli:
     plugin: rust
     source: .
     build-packages:
