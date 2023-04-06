@@ -1159,7 +1159,7 @@ where
 
   let bottom_text_raw = format!(
     "{}{}",
-    "\nPlease report any bugs or missing features to https://github.com/Rigellute/spotify-cli\n\n",
+    "\nPlease report any bugs or missing features to https://github.com/garmir/spotify-cli\n\n",
     clean_changelog
   );
   let bottom_text = Text::from(bottom_text_raw.as_str());
