@@ -1,13 +1,13 @@
 [package]
-name = "spotify-tui"
+name = "spotify-cli"
 description = "A terminal user interface for Spotify"
-homepage = "https://github.com/Rigellute/spotify-tui"
-documentation = "https://github.com/Rigellute/spotify-tui"
-repository = "https://github.com/Rigellute/spotify-tui"
-keywords = ["spotify", "tui", "cli", "terminal"]
+homepage = "https://github.com/garmir/spotify-cli"
+documentation = "https://github.com/garmir/spotify-cli"
+repository = "https://github.com/garmir/spotify-cli"
+keywords = ["spotify", "cli", "terminal"]
 categories = ["command-line-utilities"]
 version = "0.25.0"
-authors = ["Alexander Keliris <rigellute@gmail.com>"]
+authors = ["Ciri McDougall <garmir@pm.me>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
 
