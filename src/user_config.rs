@@ -52,22 +52,22 @@ pub struct Theme {
 impl Default for Theme {
   fn default() -> Self {
     Theme {
-      analysis_bar: Color::LightCyan,
-      analysis_bar_text: Color::Reset,
-      active: Color::Cyan,
-      banner: Color::LightCyan,
+      analysis_bar: Color::White,
+      analysis_bar_text: Color::White,
+      active: Color::Rgb(255,255,25),
+      banner: Color::Rgb(029,185,084),
       error_border: Color::Red,
       error_text: Color::LightRed,
-      hint: Color::Yellow,
-      hovered: Color::Magenta,
-      inactive: Color::Gray,
+      hint: Color::Rgb(029,185,084),
+      hovered: Color::White,
+      inactive: Color::DarkGray,
       playbar_background: Color::Black,
-      playbar_progress: Color::LightCyan,
-      playbar_progress_text: Color::LightCyan,
-      playbar_text: Color::Reset,
-      selected: Color::LightCyan,
-      text: Color::Reset,
-      header: Color::Reset,
+      playbar_progress: Color::White,
+      playbar_progress_text: Color::White,
+      playbar_text: Color::White,
+      selected: Color::White,
+      text: Color::DarkGray,
+      header: Color::White,
     }
   }
 }
@@ -299,7 +299,7 @@ impl UserConfig {
         repeat_context_icon: "🔁".to_string(),
         playing_icon: "▶".to_string(),
         paused_icon: "⏸".to_string(),
-        set_window_title: true,
+        set_window_title: false,
       },
       path_to_config: None,
     }
