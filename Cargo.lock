@@ -1874,7 +1874,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "spotify-tui"
+name = "spotify-cli"
 version = "0.25.0"
 dependencies = [
  "anyhow",

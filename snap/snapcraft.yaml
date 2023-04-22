@@ -1,7 +1,7 @@
 name: spt-temp
 base: core18
 adopt-info: spotify-cli
-summary: Spotify CLI
+summary: Spotify TUI
 description: |
   Spotify for the terminal written in Rust
 

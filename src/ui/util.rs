@@ -80,10 +80,10 @@ pub fn get_percentage_width(width: u16, percentage: f32) -> u16 {
 
 // Ensure track progress percentage is between 0 and 100 inclusive
 pub fn get_track_progress_percentage(song_progress_ms: u128, track_duration_ms: u32) -> u16 {
-  let min_perc = 0_u16;
-  let track_progress = std::cmp::min(song_progress_ms, u128::from(track_duration_ms));
-  let track_perc = (track_progress * 100) / u128::from(track_duration_ms);
-  min_perc.max(track_perc as u16)
+  let min_perc = 0_f64;
+  let track_progress = std::cmp::min(song_progress_ms, track_duration_ms.into());
+  let track_perc = (track_progress as f64 / f64::from(track_duration_ms)) * 100_f64;
+  min_perc.max(track_perc) as u16
 }
 
 // Make better use of space on small terminals

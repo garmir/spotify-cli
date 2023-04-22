@@ -1,0 +1,10 @@
+/Users/fen/Documents/Repositories/spotify-cli/target/release/deps/libderive_builder-ce7b45ba0a6786e2.dylib: /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/lib.rs /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/log_disabled.rs /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/options/mod.rs /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/options/darling_opts.rs /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/doc_tpl/builder_struct.md /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/doc_tpl/builder_method.md
+
+/Users/fen/Documents/Repositories/spotify-cli/target/release/deps/derive_builder-ce7b45ba0a6786e2.d: /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/lib.rs /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/log_disabled.rs /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/options/mod.rs /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/options/darling_opts.rs /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/doc_tpl/builder_struct.md /Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/doc_tpl/builder_method.md
+
+/Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/lib.rs:
+/Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/log_disabled.rs:
+/Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/options/mod.rs:
+/Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/options/darling_opts.rs:
+/Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/doc_tpl/builder_struct.md:
+/Users/fen/.cargo/registry/src/github.com-1ecc6299db9ec823/derive_builder-0.7.2/src/doc_tpl/builder_method.md:

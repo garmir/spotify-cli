@@ -273,7 +273,7 @@ async fn start_ui(user_config: UserConfig, app: &Arc<Mutex<App>>) -> Result<()> 
   let mut backend = CrosstermBackend::new(stdout);
 
   if user_config.behavior.set_window_title {
-    backend.execute(SetTitle("spt - Spotify CLI"))?;
+    backend.execute(SetTitle("spt - Spotify TUI"))?;
   }
 
   let mut terminal = Terminal::new(backend)?;
