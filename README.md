@@ -1,11 +1,5 @@
 # Spotify TUI
 
-![Continuous Integration](https://github.com/garmir/spotify-cli/workflows/Continuous%20Integration/badge.svg?branch=master&event=push)
-![](https://img.shields.io/badge/license-MIT-blueviolet.svg)
-![](https://tokei.rs/b1/github/garmir/spotify-cli?category=code)
-[![Crates.io](https://img.shields.io/crates/v/spotify-cli.svg)](https://crates.io/crates/spotify-cli)
-![](https://img.shields.io/github/v/release/garmir/spotify-cli?color=%23c694ff)
-
 A Spotify client for the terminal written in Rust.
 
 - [Spotify TUI](#spotify-cli)
