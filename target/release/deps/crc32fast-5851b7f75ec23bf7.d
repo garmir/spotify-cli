@@ -1,0 +1,11 @@
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/libcrc32fast-5851b7f75ec23bf7.rmeta: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs
+
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/libcrc32fast-5851b7f75ec23bf7.rlib: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs
+
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/crc32fast-5851b7f75ec23bf7.d: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs
+
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/lib.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/baseline.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/combine.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/specialized/mod.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.2/src/table.rs:

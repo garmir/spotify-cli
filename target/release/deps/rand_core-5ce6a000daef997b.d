@@ -1,0 +1,11 @@
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/librand_core-5ce6a000daef997b.rmeta: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/error.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/block.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/impls.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/le.rs
+
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/librand_core-5ce6a000daef997b.rlib: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/error.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/block.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/impls.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/le.rs
+
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/rand_core-5ce6a000daef997b.d: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/error.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/block.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/impls.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/le.rs
+
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/lib.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/error.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/block.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/impls.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/le.rs:

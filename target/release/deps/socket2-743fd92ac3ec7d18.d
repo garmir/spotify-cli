@@ -1,0 +1,11 @@
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/libsocket2-743fd92ac3ec7d18.rmeta: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sockaddr.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/socket.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/utils.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sys/unix.rs
+
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/libsocket2-743fd92ac3ec7d18.rlib: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sockaddr.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/socket.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/utils.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sys/unix.rs
+
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/socket2-743fd92ac3ec7d18.d: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sockaddr.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/socket.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/utils.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sys/unix.rs
+
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/lib.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sockaddr.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/socket.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/utils.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sys/unix.rs:

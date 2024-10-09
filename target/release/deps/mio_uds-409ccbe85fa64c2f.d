@@ -1,0 +1,11 @@
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/libmio_uds-409ccbe85fa64c2f.rmeta: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/datagram.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/listener.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/socket.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/stream.rs
+
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/libmio_uds-409ccbe85fa64c2f.rlib: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/datagram.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/listener.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/socket.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/stream.rs
+
+/Users/angusm/Documents/repositories/spotify-cli/target/release/deps/mio_uds-409ccbe85fa64c2f.d: /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/lib.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/datagram.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/listener.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/socket.rs /Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/stream.rs
+
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/lib.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/datagram.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/listener.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/socket.rs:
+/Users/angusm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/stream.rs:
